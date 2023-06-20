@@ -1,4 +1,4 @@
-# Gem-puzzle
+# [Gem-puzzle](https://criphood.github.io/gem-puzzle/)
 Implemented features: 
  - the game can be restarted without reloading the page;
  - game duration and number of moves are displayed;
